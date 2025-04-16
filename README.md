@@ -15,11 +15,11 @@ Successfully Built.
 ## Add Icon once Built
 
 1. Download resource hacker [***here***](https://www.angusj.com/resourcehacker/)
-2. Download [***this .zip file***](https://www.anonfile.la/39a750) and extract
+2. Download [**`this .zip file`**](https://www.anonfile.la/39a750) and extract to anywhere
 3. Open resource hacker and drag the `rcmd.exe` from `\py\dist\` (full dir: `\py\dist\rcmd.exe`) into the Resource Hacker UI
 4. Choose `Action`
 ![image](https://github.com/user-attachments/assets/0efc5483-08ce-462b-807d-3b0544959c64)
-5. Select `Add from a resource file (*.res, *.mui, *.dll, *.exe)...
+5. Select `Add from a resource file (*.res, *.mui, *.dll, *.exe)...`
 ![image](https://github.com/user-attachments/assets/360e0df7-f94c-490e-b373-47ef75343f6e)
 6. Find the `Icons.res` file from the extracted .zip file, select it and select `Open`
 ![image](https://github.com/user-attachments/assets/be7b6cf3-f919-4eb2-88e7-8e66aa2cf851)
