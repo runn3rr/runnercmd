@@ -29,5 +29,5 @@ Successfully Built.
 ![image](https://github.com/user-attachments/assets/75866797-3e31-4035-b9ea-2ec083b61983)
 ![image](https://github.com/user-attachments/assets/8b059edf-d0ac-4136-a318-2d95dd4221da)
 
-#### Successfully Added Icon.
--# Reason for needing to use a `.res` file with Resource Hacker is due to `pyinstaller` not supporting multiple icons.
+### Successfully Added Icon.
+Reason for needing to use a `.res` file with Resource Hacker is due to `pyinstaller` not supporting multiple icons.
