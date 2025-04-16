@@ -1,0 +1,2 @@
+# runnercmd
+This Batch script emulates a fake Command Prompt (CMD) with additional features, one of which is "spamping." Spamping utilizes Python to ping a specified IP address using threading, sending multiple pings concurrently for a rapid network test. Along with other custom functionalities, the script mimics the look and feel of a standard CMD window while offering playful or practical enhancements like simultaneous pings, all within a simple Batch script environment.
